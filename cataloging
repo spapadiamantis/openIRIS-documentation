@@ -1,7 +1,0 @@
-# Resource Cataloging
-
-When cataloging resources for OpenIRIS PICsL structures use the European BioImaging (EuBI) proposed nomenclature that can be found [here]().
-
-For example each resource includes the EuBI category tag in each Title in order to quicly identify its functionality. We also added several "Resource Types" according to EuBI standars.
-
-[//]: "List of categories"
