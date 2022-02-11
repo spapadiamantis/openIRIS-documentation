@@ -21,4 +21,4 @@ Each of the afforementioned structures is an OpenIRIS PROVIDER affiliated with t
 
 All structures are proud members of PICsL and France-BioImaging(FBI). We have affiliated our providers to the PICsL and FBI COMMUNITIES.
 
-//Schematic representation here
+![PICsL community on OpenIRIS](finalPLAN2.png)
