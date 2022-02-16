@@ -9,4 +9,4 @@ You can find templates for each entity in the administrator tab. These templates
 - Make sure that all required fields are filled out. 
 - All providers are to be reffered to using their GUID.
 - As a rule of thumb try to include as much information as possible, this can help administrators and users to distinguish resources.
-
+- In the "Image" field you can insert an image, and then the image will attach, but you must use the insert image option in Excel.
