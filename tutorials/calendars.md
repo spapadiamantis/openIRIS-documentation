@@ -10,3 +10,6 @@ Here is a small tutorial of how to import you personal calendar feed to a Micros
 4) Go to your Outlook Client
 5) Calendar > Add calendar > from internet
 6) Paste link in the prompt 
+
+
+Note that calendars are updated on specific basis determined by your calendar client. Google Calendar for example takes at most 8 hours to refresh. This issue is not related to OpenIRIS in any way.
