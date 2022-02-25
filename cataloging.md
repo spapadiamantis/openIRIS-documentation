@@ -17,3 +17,4 @@ Some notes on the import template:
 - required columns begin with REQUIRED:
 - most OpenIRIS objects (PROVIDERS or RESOURCES for example) are referenced with a "Globally Unique identidier" GUID that can be found in eache objects tab
 - the template contains a great amount of information. There are specific columns that are not visible by users, but can be useful to administrators. Feel free to add as much info as you can even if it seems excessive
+- images should be compressed before uploading, the wbsite proposes a DPI under 96
